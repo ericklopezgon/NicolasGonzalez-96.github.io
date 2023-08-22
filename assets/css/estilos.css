@@ -14,7 +14,9 @@ body {
 
 #Hero-Section img{
   float: left;
-  width: 900px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 
 /* Mis trabajos */
