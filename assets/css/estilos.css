@@ -27,7 +27,15 @@ body {
   background-size: contain;
   background-position: center;
 }
-
+#Portafolio .btn-outline-info {
+  background-color: #ac9722;
+  color: white;
+  padding: 15px 25px;
+  text-decoration: none;
+}
+#Portafolio .btn-outline-info:hover {
+  background-color: #223094;
+}
 /* Contacto */
 
 #Contacto form label {
