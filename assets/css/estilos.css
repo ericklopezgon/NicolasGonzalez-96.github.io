@@ -1,0 +1,47 @@
+body {
+  font-family: "Raleway", sans-serif;
+  background-image: url(../img/fondo-textura-pared-pintada-blanco.jpg);
+}
+/* Image Section */
+
+#Image-Section{
+  width:cover;
+  position: center;
+  background-size: cover;
+}
+
+/* Hero Section */
+
+#Hero-Section {
+  background-color: #373a3c;
+  background-repeat: no-repeat;
+  background: size cover ;
+  background-position: center;
+}
+
+/* Mis trabajos */
+
+#Portafolio .image-top {
+  height: 250px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+/* Contacto */
+
+#Contacto form label {
+  font-weight: 700;
+  color: #373a3c;
+}
+
+@media (max-width: 768px) {
+  #Contacto form label {
+    font-weight: 400;
+  }
+
+  .navbar-brand{
+    width: 100px;
+  }
+
+}
