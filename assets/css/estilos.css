@@ -12,11 +12,9 @@ body {
 
 /* Hero Section */
 
-#Hero-Section {
-  background-color: #373a3c;
-  background-repeat: no-repeat;
-  background: size cover ;
-  background-position: center;
+#Hero-Section img{
+  float: left;
+  width: 900px;
 }
 
 /* Mis trabajos */
@@ -24,7 +22,7 @@ body {
 #Portafolio .image-top {
   height: 250px;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
   background-position: center;
 }
 
