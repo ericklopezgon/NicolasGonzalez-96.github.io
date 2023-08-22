@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1, h2, h3 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+h4, h5, h6, p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+nav{
+    background-color:#28a745 ;
+}
+nav .navbar-collapse{
+    justify-content: end;
+}
+nav a img{
+    width: 150px;
+}
+.precio{
+    display: flex;
+    justify-content: end;
+}
+.precio h3{
+    color: #28a745;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+form{
+    background-color: #28a745;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+footer{
+    text-align: center;
+}
+footer img{
+    width: 150px;
+}
