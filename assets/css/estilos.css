@@ -2,6 +2,17 @@ body {
   font-family: "Raleway", sans-serif;
   background-image: url(../img/fondo-textura-pared-pintada-blanco.jpg);
 }
+
+/* correción navbar */
+
+#Acerca-de-mi h2{
+  padding-top: 75px;
+}
+
+#Experiencia-laboral h2{
+  padding-top: 75px;
+}
+
 /* Image Section */
 
 #Image-Section{
@@ -21,6 +32,9 @@ body {
 
 /* Mis trabajos */
 
+#Portafolio h2{
+  padding-top: 30px ;
+}
 #Portafolio .image-top {
   height: 250px;
   background-repeat: no-repeat;
@@ -38,6 +52,9 @@ body {
 }
 /* Contacto */
 
+#Contacto h2 {
+  padding-top: 10px;
+}
 #Contacto form label {
   font-weight: 700;
   color: #373a3c;
@@ -51,5 +68,8 @@ body {
   .navbar-brand{
     width: 100px;
   }
+}
 
+.navbar {
+  
 }
