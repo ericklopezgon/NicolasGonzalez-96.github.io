@@ -69,3 +69,10 @@ body {
     width: 100px;
   }
 }
+.card{
+  height: 450px;
+    border: none;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color:#ffffff  ;
+}
