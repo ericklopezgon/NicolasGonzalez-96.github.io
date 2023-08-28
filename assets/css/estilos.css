@@ -69,3 +69,12 @@ body {
     width: 100px;
   }
 }
+.card{
+  height: 450px;
+    border: none;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color:#ffffff  ;
+}
+/* lo de arriba corresponde a modificacion realizada por jonathan campusano g50
+para que queden del mismo tamaño las "cards" y se le modifico el borde. Saludos! */
